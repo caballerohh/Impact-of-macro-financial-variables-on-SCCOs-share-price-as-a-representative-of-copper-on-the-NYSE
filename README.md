@@ -1,4 +1,4 @@
-# 📈 Impact-of-macro-financial-variables-on-SCCO
+# 📈 Macro-Equity Nexus: Interplay of Global Indicators & Copper Markets
 
 This repository features a Python-based analytical engine designed to merge macroeconomic indicators with financial market data. The project quantifies the relationship between **"Real Economy" variables**—such as inflation and interest rates—and the performance of equities and commodities, using **$SCCO (Southern Copper Corp)** as a proxy for the copper market.
 
